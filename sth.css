@@ -1,0 +1,42 @@
+body {
+    background-color:#ff4d4d;
+}
+
+h1 {
+    text-align: center;
+    color: darkcyan;
+    font-size: 50px;    
+    font-family: cursive;
+}
+p {
+    text-align: center;
+    color: gold;
+    font-size: 20px;
+}
+#quest {
+    border: 1 px solid black;
+}
+#ans {
+    text-align: center;
+    width: 50%;
+    height: 30px;
+    margin:10px auto;
+    position: absolute;
+    right: 330px;
+}
+#lvl {
+    text-align: center;
+    color: aqua;
+    font-size: 50px;
+}
+
+#btn {
+    height: 50px;
+    width: 100px;
+    margin: auto;
+    position: absolute;
+    top: 500px;
+    right:640px;
+    color: snow;
+    background-color:orangered;
+}
